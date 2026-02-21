@@ -16,7 +16,7 @@ A classic, physics-based Breakout game built with Python and Pygame. Features le
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/rizwanahmed109-beep/Python---Breakout.git
+git clone https://github.com/RZ-Logic/Python---Breakout.git
 cd Python---Breakout
 ```
 
